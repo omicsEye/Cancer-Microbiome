@@ -12,7 +12,7 @@ library(ComplexHeatmap)
 library(colorRamp2)
 library(readxl)
 
-setwd("/Users/xinyang/Library/CloudStorage/Box-Box/Cancer_Mircrobiome/MetaAnalysis")
+setwd("~/Downloads/")
 
 Daver <- read.delim(
   "data/BGC_Davar_Merged.tsv",

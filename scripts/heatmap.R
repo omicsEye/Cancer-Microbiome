@@ -7,8 +7,6 @@ library(ggplot2)
 library(ggplotify)
 library(pheatmap)
 library(patchwork)
-setwd("/Users/xinyang/Library/CloudStorage/Box-Box/Cancer_Mircrobiome/MetaAnalysis")
-
 
 ### METAPHLAN - species ###
 All <- read.delim(

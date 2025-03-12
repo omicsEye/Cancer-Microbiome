@@ -1,7 +1,7 @@
 library(iGSEA)
 library(Maaslin2)
 
-setwd("/Users/xinyang/Library/CloudStorage/Box-Box/Cancer_Mircrobiome/MetaAnalysis")
+setwd("~/Downloads/")
 input_data <- read.delim(
   "PathwayAbundanceData/Spencer2021_PathcoverageMergedTable.txt",
   sep = '\t',

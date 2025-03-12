@@ -12,7 +12,7 @@ library(ComplexHeatmap)
 library(colorRamp2)
 library(readxl)
 
-setwd("/Users/xinyang/Library/CloudStorage/Box-Box/Cancer_Mircrobiome/MetaAnalysis")
+setwd("~/Downloads/")
 
 Daver <- read.delim(
   "data/Davar_merged_table.txt",
@@ -266,38 +266,3 @@ meta_fits %>%
   ggplot(aes(y = coef, x = feature)) +
   geom_bar(stat = "identity") +
   coord_flip()
-
-
-# control_meta <- subset(meta2, response == "R")
-# control_abd_adj <- fit_adjust_batch2_adj[, rownames(control_meta)]
-# 
-# D_control <- vegdist(t(control_abd_adj))
-# fit_discrete <- discrete_discover(D = D_control,
-#                                   batch = "dataset",
-#                                   data = control_meta,
-#                                   control = list(k_max = 8,
-#                                                  verbose = FALSE))
-# 
-# study_id = "Lee_2022"
-# 
-# internal <- data.frame(K = 2:7,
-#                        statistic = fit_discrete$internal_mean[, study_id],
-#                        se = fit_discrete$internal_se[, study_id],
-#                        type = "internal")
-# external <- data.frame(K = 2:7,
-#                        statistic = fit_discrete$external_mean[, study_id],
-#                        se = fit_discrete$external_se[, study_id],
-#                        type = "external")
-# rbind(internal, external) %>% 
-#   ggplot(aes(x = K, y = statistic, color = type)) +
-#   geom_point(position = position_dodge(width = 0.5)) + 
-#   geom_line(position = position_dodge(width = 0.5)) +
-#   geom_errorbar(aes(ymin = statistic - se, ymax = statistic + se),
-#                 position = position_dodge(width = 0.5), width = 0.5) +
-#   ggtitle("Evaluation of discrete structure in control stool microbiome (Lee_2022)")
-# 
-# fit_continuous <- continuous_discover(feature_abd = control_abd_adj,
-#                                       batch = "dataset",
-#                                       data = control_meta,
-#                                       control = list(var_perc_cutoff = 0.5,
-#                                                      verbose = FALSE))

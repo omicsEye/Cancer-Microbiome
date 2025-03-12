@@ -1,7 +1,3 @@
-
-
-setwd("/Users/xinyang/Library/CloudStorage/Box-Box/Cancer_Mircrobiome/MetaAnalysis")
-
 sp <- read.delim(
   "data/maaslin2_output/significant_results.tsv",
   sep = '\t',

@@ -23,6 +23,8 @@ We compiled publicly available whole metagenome shotgun sequencing (MGS) dataset
 - LeeKA_2022 (PRJEB431196)
 
 ## Workflow
+![Workflow Overview](images/Overview.png)
+
 
 ### 1. Quality Control & Preprocessing
 

@@ -64,7 +64,9 @@ We compiled publicly available whole metagenome shotgun sequencing (MGS) dataset
 
 - Heatmap: Use `heatmap.R` to generate heatmaps for significant associations.
 
-![Volcano_Figure](images/volcano_plot.png)
+<img src="images/volcano.png" alt="Volcano_Figure" width="400" height="400">
+<img src="images/uniref.png" alt="uniref_Figure" width="400" height="400">
+
 
 ## Key Findings
 

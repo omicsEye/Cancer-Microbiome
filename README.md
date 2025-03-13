@@ -7,17 +7,11 @@ This repository contains a reproducible computational pipeline for conducting a 
 ## Key Features 
 
 - **Comprehensive Meta-Analysis**: The comprehensive meta-analysis of metagenomic samples in melanoma immunotherapy(N=678).
-  
 - **Identification of Secondary Metabolites**: Novel discovery of secondary metabolites linked to immunotherapy response.
-  
 - **Biomarker Discovery**: _Faecalibacterium_ SGB15346 identified as a potential biomarker for ICI response.
-
 - **Functional Insights**: _RiPP_ biosynthetic gene clusters and Enterobacteriaceae-associated BGCs enriched in responders.
-  
 - **Reproducible Analysis Pipeline**: A standardized and reproducible workflow for future research applications.
-
 ## Data Collection
-
 We compiled publicly available whole metagenome shotgun sequencing (MGS) datasets from melanoma patients receiving immunotherapy. The following studies were included:
 
 - GopalakrishnanV_2018 (PRJEB228939)

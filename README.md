@@ -48,6 +48,8 @@ We compiled publicly available whole metagenome shotgun sequencing (MGS) dataset
 
 - Batch Effect Correction: Performed using `MMUPHin.R`.
 
+![Batch_Effect_Figure](images/Batch_effect.png)
+
 ### 4. Meta-Analysis & Statistical Modeling
 
 - Statistical associations analyzed using MaAsLin2 within `MMUPHin.R`.
@@ -61,6 +63,8 @@ We compiled publicly available whole metagenome shotgun sequencing (MGS) dataset
 - Volcano Plot: Run `volcano_plot.R` to visualize differentially abundant taxa or pathways.
 
 - Heatmap: Use `heatmap.R` to generate heatmaps for significant associations.
+
+![Volcano_Figure](images/Volcano.png)
 
 ## Key Findings
 

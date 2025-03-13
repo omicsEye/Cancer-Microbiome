@@ -77,7 +77,17 @@ We compiled publicly available whole metagenome shotgun sequencing (MGS) dataset
 - Batch effect correction successfully reduced inter-study variability while preserving biological signals.
 
 
+## How to Cite
 
+If you use this pipeline in your research, please cite our study:
+> Meta-analytic microbiome target discovery for immune checkpoint inhibitor response in advanced melanoma - [Journal Name, 2025]
+
+## Contact
+
+For questions, please open an issue or contact [Ali Rahnavard](mailto\:rahnavard@email.gwu.edu), [Himel Mallick](mailto\:him4004@med.cornell.edu) or [Xinyang Zhang](mailto\:xinyangz@gwu.edu).
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 
 

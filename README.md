@@ -47,9 +47,7 @@ We compiled publicly available whole metagenome shotgun sequencing (MGS) dataset
 - Bray-Curtis Dissimilarity: Used to assess inter-study variability.
 
 - Batch Effect Correction: Performed using `MMUPHin.R`.
-
 ![Batch_Effect_Figure](images/Batch_effect.png)
-
 ### 4. Meta-Analysis & Statistical Modeling
 
 - Statistical associations analyzed using MaAsLin2 within `MMUPHin.R`.

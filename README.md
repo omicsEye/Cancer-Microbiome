@@ -4,6 +4,11 @@ This repository includes a set of analyses and visualization for a project entit
 
 This repository contains a reproducible computational pipeline for conducting a meta-analysis of metagenomic samples in melanoma immunotherapy. Our study integrates microbial species, biosynthetic gene clusters (BGCs), and functional pathways across multiple datasets to identify key microbial signatures associated with immune checkpoint inhibitor (ICI) response.
 
+### Citation
+If you use this pipeline in your research, please cite our study:
+> **Zhang, X., Mallick, H. & Rahnavard, A.** Meta-analytic microbiome target discovery for immune checkpoint inhibitor response in advanced melanoma. *bioRxiv* **2025**, 2025.03.21.644637 (2025). [https://doi.org/10.1101/2025.03.21.644637](https://doi.org/10.1101/2025.03.21.644637).
+
+
 ## Key Features 
 
 - **Comprehensive Meta-Analysis**: The comprehensive meta-analysis of metagenomic samples in melanoma immunotherapy(N=678).
@@ -76,12 +81,6 @@ We compiled publicly available whole metagenome shotgun sequencing (MGS) dataset
 - **dTDP-sugar biosynthesis pathways** correlate with non-response.
 
 - Batch effect correction successfully reduced inter-study variability while preserving biological signals.
-
-
-## How to Cite
-
-If you use this pipeline in your research, please cite our study:
-> **Zhang, X., Mallick, H. & Rahnavard, A.** Meta-analytic microbiome target discovery for immune checkpoint inhibitor response in advanced melanoma. *bioRxiv* **2025**, 2025.03.21.644637 (2025). [https://doi.org/10.1101/2025.03.21.644637](https://doi.org/10.1101/2025.03.21.644637).
 
 
 ## Contact

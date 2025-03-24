@@ -81,7 +81,8 @@ We compiled publicly available whole metagenome shotgun sequencing (MGS) dataset
 ## How to Cite
 
 If you use this pipeline in your research, please cite our study:
-> Meta-analytic microbiome target discovery for immune checkpoint inhibitor response in advanced melanoma - [Journal Name, 2025]
+> **Zhang, X., Mallick, H. & Rahnavard, A.** Meta-analytic microbiome target discovery for immune checkpoint inhibitor response in advanced melanoma. *bioRxiv* **2025**, 2025.03.21.644637 (2025). [https://doi.org/10.1101/2025.03.21.644637](https://doi.org/10.1101/2025.03.21.644637).
+
 
 ## Contact
 

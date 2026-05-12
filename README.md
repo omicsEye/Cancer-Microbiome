@@ -53,7 +53,7 @@ Table 1 summarizes melanoma metagenomic datasets included in this study and comp
 | **ICI Total / *ICI+FMT Total** | **482 / 281** | **274 / 0** | **211 / 221** | **385 / 0** | **364 / 221** | **292 / 0** | **102 / 0** |
 
 ## Workflow
-![Workflow Overview](images/Overview.png)
+![Workflow Overview](images/OverviewFig1.png)
 
 
 ### 1. Quality Control & Preprocessing

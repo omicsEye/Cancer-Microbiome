@@ -27,6 +27,31 @@ We compiled publicly available whole metagenome shotgun sequencing (MGS) dataset
 - DavarD_2021 (PRJNA67286711)
 - LeeKA_2022 (PRJEB431196)
 
+## Melanoma metagenomic samples
+
+Table 1 summarizes melanoma metagenomic datasets included in this study and compares them with recent meta-analyses.
+
+| Melanoma Study / Meta-analysis Study | Our study | Cai et al. 2025 | Zhu et al. 2025 | Zhang et al. 2025 | Olekhnovich et al. 2023 | Lee et al. 2022 | Limeta et al. 2020 |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| Gopalakrishnan et al., 2017 | 25 | 25 | 0 | 0 | 25 | 25 | 25 |
+| Matson et al., 2018 | 38 | 38 | 0 | 38 | 38 | 38 | 38 |
+| McCulloch et al., 2022 | 46 | 46 | 46 | 46 | 0 | 0 | 0 |
+| Lee et al., 2022 - UK | 55 | 55 | 0 | 55 | 55 | 55 | 0 |
+| Lee et al., 2022 - Netherlands | 55 | 55 | 0 | 55 | 55 | 55 | 0 |
+| Lee et al., 2022 - Manchester | 25 | 25 | 0 | 25 | 25 | 25 | 0 |
+| Lee et al., 2022 - Leeds | 18 | 18 | 0 | 18 | 18 | 18 | 0 |
+| Lee et al., 2022 - Barcelona | 12 | 12 | 0 | 12 | 12 | 12 | 0 |
+| Spencer et al., 2021 | 97 | 0 | 0 | 97 | 97 | 0 | 0 |
+| Frankel et al., 2017 | 39 | 0 | 0 | 39 | 39 | 39 | 39 |
+| Simpson et al., 2022 | 25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Glitza et al., 2024 | 47 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Zhu et al. 2025 | 0 | 0 | 165 | 0 | 0 | 0 | 0 |
+| Wind et al., 2020 | 0 | 0 | 0 | 0 | 0 | 25 | 0 |
+| *Davar et al., 2021 | 181 | 0 | 181 | 0 | 181 | 0 | 0 |
+| *Baruch et al., 2020 | 40 | 0 | 40 | 0 | 40 | 0 | 0 |
+| *Bertrand et al., 2019 | 60 | 0 | 0 | 0 | 0 | 0 | 0 |
+| **ICI Total / *ICI+FMT Total** | **482 / 281** | **274 / 0** | **211 / 221** | **385 / 0** | **364 / 221** | **292 / 0** | **102 / 0** |
+
 ## Workflow
 ![Workflow Overview](images/Overview.png)
 
